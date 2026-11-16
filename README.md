@@ -55,4 +55,4 @@ Les droits de redistribution du paquet complet et les conditions de licence de l
 
 **Développé par NeuraxOS 💙**
 
-*AGENTIC OS — One Mission Control. Infinite possibilities.*
+*AGENTIC OS — Un seul centre de contrôle. Des possibilités infinies.*
