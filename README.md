@@ -119,7 +119,6 @@ AGENTIC OS V3.0 est un projet en évolution.
 - Certaines fonctionnalités nécessitent des services locaux ou une configuration supplémentaire.
 - Les tests fonctionnels complets sur une installation Windows neuve restent à effectuer.
 - L'installateur précédemment analysé n'est pas signé numériquement.
-- La voix Hugo, Whisper et le fonctionnement du microphone ne font pas partie des fonctionnalités vérifiées pour cette version.
 - La redistribution publique de l'installateur nécessite la finalisation des contrôles de sécurité et des licences.
 
 La présence d'une fonctionnalité dans l'interface ne garantit pas sa disponibilité complète dans tous les environnements.
